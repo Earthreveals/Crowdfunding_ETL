@@ -69,7 +69,11 @@ Installing Python:
 Download the latest version of Python from the official website.
 Run the installer and follow the instructions to complete the installation.
 Ensure that you add Python to your PATH when presented with the option.
-Installing Dependencies: 1.Open the command prompt or terminal. 2.Navigate to the project directory. 3.Run the following command to install the dependencies: pip install -r requirements.txt
+
+Installing Dependencies: 
+1.Open the command prompt or terminal. 
+2.Navigate to the project directory. 
+3.Run the following command to install the dependencies: pip install -r requirements.txt
 
 Usage
 To run scripts in python, we will use libraries above to analyze data using python. Scripts are run in Anaconda prompt by opening the terminal and navigating to the directory where the script is located. Python scripts can be ran using the command python script_name.py
